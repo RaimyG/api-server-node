@@ -1,0 +1,4 @@
+JWT_SECRET=monjetonsupersecret
+MONGO_LOCAL_CONN_URL=mongodb://127.0.0.1:27017/solarhub
+OVH_MAIL='yourmail@domain.fr'
+OVH_PASSWD='p4ssw0rD'
